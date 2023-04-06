@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 import sys
 if len(sys.argv) is 1:
     print("Usage: nqueens N")
